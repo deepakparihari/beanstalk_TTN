@@ -1,5 +1,5 @@
 # beanstalk_TTN
-automation 
+automation Steps : 
 
 
 [Elastic Beanstalk Environment]
