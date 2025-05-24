@@ -1,4 +1,6 @@
 # beanstalk_TTN
+Architecture Flow: Auto-Restart Elastic Beanstalk on 4xx Errors
+
 automation Steps : 
 
 
